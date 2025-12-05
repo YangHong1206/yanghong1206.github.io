@@ -2,8 +2,8 @@ title:              The Hong Briefing
 email:              shevril@gmail.com
 description:        Simple words. Hard truths. What the mainstream misses about the global economy.
 author:             YANG HONG
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl:            "https://yanghong1206.github.io/clean-blog-jekyll-website/"
+url:                "https://yanghong1206.github.io/clean-blog-jekyll-website/"
 
 # Social Profiles
 twitter_username:   SBootstrap
